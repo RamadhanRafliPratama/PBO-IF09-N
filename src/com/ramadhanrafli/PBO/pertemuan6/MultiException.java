@@ -15,7 +15,7 @@ public class MultiException {
             int bilangan2 = input.nextInt();
 
             int hasil = bilangan1/bilangan2;
-            System.out.println(bilangan1 + " / " + bilangan2+ " = " + hasil);
+            System.out.println(bilangan1 + " / " + bilangan2 + " = " + hasil);
         }
 //        catch (ArithmeticException | InputMismatchException e){
 //            System.out.println("Error gess. tidak dapat diproses :(");
